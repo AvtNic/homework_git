@@ -9,5 +9,4 @@ print("Hello, Git")
 
 print("Changed on GitHub")
 
-
 print("Изменено Локально!")
