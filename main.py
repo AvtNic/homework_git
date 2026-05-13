@@ -7,4 +7,4 @@ print("Hello, Git")
 # git remote add origin https://github.com/AvtNic/homework_git.git
 # git push -u origin main
 
- print("Changed on GitHub")
+print("Changed on GitHub")
